@@ -1,10 +1,7 @@
 <div align="center">
 
 <h3> Tech Stack </h3>
-<p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  
-</p>
+<p><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></p>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ZE-R0-1&show_icons=true&theme=dark"
