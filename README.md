@@ -20,7 +20,7 @@
 
 ## Education
 ### iOS Bootcamp / Allen Swift Master School
-> Oct 2021 - Apr 2022 
+> Dec 2022 - May 2023
 * Studied iOS/CS, Enhanced practical skills
 * [View all projects](https://github.com/ZE-R0-1/Swift-TIL)
 
