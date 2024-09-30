@@ -10,7 +10,10 @@
 
 </div>
 
-## Side Projects
+## 📌 Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jijiij77)](https://solved.ac/jijiij77/)
+
+## 📌 Side Projects
 ### 💍 [zRingSize](https://github.com/ZE-R0-1/zRingSize)
 > March 24, 2024 - Apr 9, 2024 (17 days)
 
@@ -18,13 +21,13 @@
 > July 8, 2024 - Aug 27, 2024 (51 days)
 - READ with Firebase.
 
-## Education
+## 📌 Education
 ### iOS Bootcamp / Allen Swift Master School
 > Dec 2022 - May 2023
 * Studied iOS/CS, Enhanced practical skills
 * [View all projects](https://github.com/ZE-R0-1/Swift-TIL)
 
-## Where to find me
+## 📌 Where to find me
 * ✏️ [Blog](https://zero88.tistory.com/)
 * ✉️ [Email](jijiij99@gmail.com)
 
