@@ -1,12 +1,13 @@
 ## Hello, I'm JoonYoung! 😆
-
-🍎 I preparing to be iOS developer.<br/>
+🍎 I preparing to be Flutter developer.<br/>
+🚇 Also developing Flutter apps for better user experience!<br/>
 ⚽️ Developing it is that much more fun!
-
 
 <div align=center>
    
 <img src="https://img.shields.io/badge/iOS(UIKit)-181717?style=flat-square&logo=Apple&logoColor=Black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/RxSwift-b7178c?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/GetX-9C27B0?style=flat-square&logo=Flutter&logoColor=white"/>
 
 </div>
 
@@ -15,6 +16,19 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jijiij77&theme=cold)
 
 ## 📌 Side Projects
+
+### 🚇 [출퇴근타임 (Commute Time)](https://github.com/ZE-R0-1/commute-time-app)
+> **🚧 In Development** - Started Dec 2024
+- Flutter app for smart commute time management
+- Real-time weather & traffic info with Kakao API integration
+- GPS location service and route optimization
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fa8c9e9b-c245-45a8-a8f2-1c6e5b1fffa8" width="200">
+  <img src="https://github.com/user-attachments/assets/3ea967e1-8af6-42ce-964e-4cd2e64a2e3e" width="200">
+  <img src="https://github.com/user-attachments/assets/4cd985d9-b69f-4f3c-98d9-e0bfd90c9f5f" width="200">
+</div>
+
 ### 💍 [zRingSize](https://github.com/ZE-R0-1/zRingSize)
 > March 24, 2024 - Apr 9, 2024 (17 days)
 
