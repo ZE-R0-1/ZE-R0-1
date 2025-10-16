@@ -17,17 +17,10 @@
 
 ## 📌 Side Projects
 
-### 🚇 [출퇴근타임 (Commute Time)](https://github.com/ZE-R0-1/commute-time-app)
-> **🚧 In Development** - Started Dec 2024
+###  [출퇴근타임 (Commute Time)](https://github.com/ZE-R0-1/commute_time)
+> Dec 26, 2024 - Aug 17, 2025
 - Flutter app for smart commute time management
-- Real-time weather & traffic info with Kakao API integration
-- GPS location service and route optimization
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fa8c9e9b-c245-45a8-a8f2-1c6e5b1fffa8" width="200">
-  <img src="https://github.com/user-attachments/assets/3ea967e1-8af6-42ce-964e-4cd2e64a2e3e" width="200">
-  <img src="https://github.com/user-attachments/assets/4cd985d9-b69f-4f3c-98d9-e0bfd90c9f5f" width="200">
-</div>
+- Real-time weather & traffic info
 
 ### 💍 [zRingSize](https://github.com/ZE-R0-1/zRingSize)
 > March 24, 2024 - Apr 9, 2024 (17 days)
@@ -47,5 +40,3 @@
 * ✉️ [Email](jijiij99@gmail.com)
 
 <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZE-R0-1&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
