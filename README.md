@@ -18,9 +18,7 @@
 ## 📌 Side Projects
 
 ###  [출퇴근타임 (Commute Time)](https://github.com/ZE-R0-1/commute_time)
-> Dec 26, 2024 - Aug 17, 2025
-- Flutter app for smart commute time management
-- Real-time weather & traffic info
+> Jun 16, 2025 - Aug 18, 2025 (64 days)
 
 ### 💍 [zRingSize](https://github.com/ZE-R0-1/zRingSize)
 > March 24, 2024 - Apr 9, 2024 (17 days)
