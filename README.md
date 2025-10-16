@@ -17,7 +17,7 @@
 
 ## 📌 Side Projects
 
-###  [출퇴근타임 (Commute Time)](https://github.com/ZE-R0-1/commute_time)
+### 🚇 [출퇴근타임 (Commute Time)](https://github.com/ZE-R0-1/commute_time)
 > Jun 16, 2025 - Aug 18, 2025 (64 days)
 
 ### 💍 [zRingSize](https://github.com/ZE-R0-1/zRingSize)
