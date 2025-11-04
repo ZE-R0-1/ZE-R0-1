@@ -25,7 +25,6 @@
 
 ### ⚽️ [FCGG](https://github.com/ZE-R0-1/FCGG)
 > July 8, 2024 - Aug 27, 2024 (51 days)
-- READ with Firebase.
 
 ## 📌 Education
 ### iOS Bootcamp / Allen Swift Master School
