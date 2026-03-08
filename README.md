@@ -1,7 +1,4 @@
 ## Hello, I'm JoonYoung! 😆
-🍎 I preparing to be Flutter developer.<br/>
-🚇 Also developing Mobile apps for better user experience!<br/>
-⚽️ Developing it is that much more fun!
 
 <div align=center>
    
